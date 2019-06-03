@@ -1,9 +1,9 @@
 {
   "name": "to-do",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An app generator for microsoft to-do",
   "dependencies": {
-    "nativefier": "^7.6.4"
+    "nativefier": "^7.6.12"
   },
   "devDependencies": {},
   "scripts": {
